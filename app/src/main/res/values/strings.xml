@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="convert">Convert</string>
+    <string name="USD">USD</string>
+    <string name="ILS">ILS</string>
+    <string name="RUB">RUB</string>
+    <string name="currencyPlaceholder">-</string>
+</resources>
